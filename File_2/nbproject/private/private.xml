@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/src/java/modeloDAO/PacienteDAO.java</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/src/java/modelo/Paciente.java</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/web/VistaPaciente/agregar.jsp</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/web/VistaEspecialidad/agregar.jsp</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/src/java/modelo/Especialidad.java</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/src/java/modeloDAO/EspecialidadDAO.java</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/src/java/controlador/ControlEspecialidad.java</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/web/VistaEspecialidad/editar.jsp</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/src/java/controlador/ControlPaciente.java</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/web/VistaEspecialidad/listar.jsp</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/web/index.jsp</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/src/java/misInterfaces/Crud.java</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/web/VistaPaciente/editar.jsp</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/src/java/misInterfaces/InterfacePaciente.java</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/src/java/config/Conexion.java</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/web/VistaPaciente/listar.jsp</file>
+            <file>file:/D:/UNIVERSIDAD/CURSOS_UTP_MARZO_2022/DESARROLLO/semana%209/Semana%209/src/java/misInterfaces/InterfaceEspecialidad.java</file>
+        </group>
+    </open-files>
+</project-private>
